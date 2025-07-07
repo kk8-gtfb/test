@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.list {
+  list-style-type: none;
+}
+
+.item01 {
+  color: red;
+}
